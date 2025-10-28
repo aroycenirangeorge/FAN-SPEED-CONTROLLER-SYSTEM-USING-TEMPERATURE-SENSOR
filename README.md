@@ -2,6 +2,10 @@
 # FAN-SPEED-CONTROLLER-SYSTEM-USING-TEMPERATURE-SENSOR
 # EXP 1(A) FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR
 
+Name: Royce Niran George A
+Reg.no: 212223060231
+Slot: 4X4-5
+
 # Aim:
 To measure the Temperature using DHT11/DHT22/TMP36  sensor with Arduino UNO Board/ESP-32 using Tinker CAD.
 
