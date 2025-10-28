@@ -17,7 +17,7 @@ Temperature Sensor (DHT11/DHT22/TMP36)
 
 
 
-# Procedure // Modify the procedure based on your circuit
+# Procedure 
 
 Step 1: Set Up the Tinkercad Environment
 1.	Log in to Tinkercad: Open Tinkercad in your web browser and log in to your account.
